@@ -22,6 +22,7 @@ A web-based intelligent assistant chatbot built with Flask, styled with a modern
 - **Styling**: Responsive and interactive UI with modern CSS
 
 ## 📁 Project Structure
+
 ├── app.py # Flask app backend
 ├── index.html # HTML template for UI
 ├── requirements.txt # Python dependencies
